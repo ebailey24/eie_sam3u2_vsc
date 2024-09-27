@@ -2,6 +2,8 @@
 @file user_app1.c                                                                
 @brief User's tasks / applications are written here.  This description
 should be replaced by something specific to the task.
+EDIT LINE 1
+
 
 ----------------------------------------------------------------------------------------------------------------------
 To start a new task using this user_app1 as a template:
